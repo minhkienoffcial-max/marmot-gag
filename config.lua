@@ -13,8 +13,8 @@ return {
   DESTROY_UNTIL_MIN_PLANTS = 200,
   DELETE_PLANTS_AFTER_MAX = { "Carrot","Strawberry","Blueberry","Tomato","Apple" },
 
-  BUY_EGGS   = { "Enchanted Egg", "Bee Egg", "Bug Egg", "Paradise Egg", "Summer Egg", "Nature Egg" },
-  PLANT_EGGS = { "Enchanted Egg", "Sprout Egg", "Exotic Sparkle Egg", "Bee Egg", "Bug Egg", "Paradise Egg", "Summer Egg", "Nature Egg" },
+  BUY_EGGS   = { "Enchanted Egg", "Bee Egg", "Bug Egg", "Paradise Egg", "Summer Egg", "Nature Egg", "Rare Egg" },
+  PLANT_EGGS = { "Enchanted Egg", "Sprout Egg", "Rare Egg", "Exotic Sparkle Egg", "Bee Egg", "Bug Egg", "Paradise Egg", "Summer Egg", "Nature Egg" },
   FALLBACK_EGG = "Sprout Egg", -- Plant this if no Enchanted Egg available
   AUTO_DETECT_ENCHANTED_EGG = true, -- Auto detect if account can plant Enchanted Egg
   ENCHANTED_EGG_MIN_LEVEL = 15, -- Minimum level required
