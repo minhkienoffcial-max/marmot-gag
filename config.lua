@@ -15,6 +15,9 @@ return {
 
   BUY_EGGS   = { "Enchanted Egg","Bee Egg","Bug Egg","Paradise Egg","Summer Egg","Nature Egg" },
   PLANT_EGGS = { "Enchanted Egg","Exotic Sparkle Egg","Bee Egg","Bug Egg","Paradise Egg","Summer Egg","Nature Egg" },
+  AUTO_DETECT_ENCHANTED_EGG = true, -- Auto detect if account can plant Enchanted Egg
+  ENCHANTED_EGG_MIN_LEVEL = 15, -- Minimum level required
+  ENCHANTED_EGG_REQUIRED_ITEMS = { "Enchanted Egg", }, -- Required items to unlock
 
   BUY_SEED_SHOP = {
     "Ember Lily","Daffodil","Orange Tulip","Burning Bud",
