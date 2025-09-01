@@ -13,12 +13,12 @@ return {
   DESTROY_UNTIL_MIN_PLANTS = 200,
   DELETE_PLANTS_AFTER_MAX = { "Carrot","Strawberry","Blueberry","Tomato","Apple" },
 
-  BUY_EGGS   = { "Enchanted Egg", "Bee Egg", "Bug Egg", "Paradise Egg", "Summer Egg", "Nature Egg", "Rare Egg" },
-  PLANT_EGGS = { "Enchanted Egg", "Sprout Egg", "Rare Egg", "Exotic Sparkle Egg", "Bee Egg", "Bug Egg", "Paradise Egg", "Summer Egg", "Nature Egg" },
-  FALLBACK_EGG = "Sprout Egg", -- Plant this if no Enchanted Egg available
-  AUTO_DETECT_ENCHANTED_EGG = true, -- Auto detect if account can plant Enchanted Egg
-  ENCHANTED_EGG_MIN_LEVEL = 15, -- Minimum level required
-  ENCHANTED_EGG_REQUIRED_ITEMS = { "Enchanted Egg", }, -- Required items to unlock
+  BUY_EGGS   = { "Enchanted Egg","Bee Egg","Bug Egg","Paradise Egg","Summer Egg","Nature Egg" },
+  PLANT_EGGS = { "Enchanted Egg","Sprout Egg","Exotic Sparkle Egg","Bee Egg","Bug Egg","Paradise Egg","Summer Egg","Nature Egg" },
+  FALLBACK_EGG = "Sprout Egg",
+  AUTO_DETECT_ENCHANTED_EGG = true,
+  ENCHANTED_EGG_MIN_LEVEL = 15,
+  ENCHANTED_EGG_REQUIRED_ITEMS = { "Enchanted Egg" },
 
   BUY_SEED_SHOP = {
     "Ember Lily","Daffodil","Orange Tulip","Burning Bud",
@@ -52,15 +52,37 @@ return {
   KEEP_PETS_WEIGHT = 7,
   KEEP_PETS_AGE = 90,
 
+ 
+  MODE = "event",
+
+  -- Presets
+  EQUIP_PETS_EVENT = {
+    ["Ladybug"]=1,
+    ["Pixie"]=2,         
+    ["Wasp"]=2,          
+    ["Bee"]=1,
+    ["Starfish"]=1
+  },
+  EQUIP_PETS_HATCH = {
+    ["Blood Kiwi"]=5,    
+    ["Rooster"]=1,
+    ["Chicken"]=1,
+    ["Bald Eagle"]=1,
+    ["Starfish"]=1
+  },
+
+
   EQUIP_PETS = {
     ["Ladybug"]=1,
-    ["Pixie"]=1,
-    ["Wasp"]=1,
+    ["Pixie"]=2,
+    ["Wasp"]=2,
     ["Bee"]=1,
-    ["Blood Kiwi"]=2,
-    ["Chicken"]=2,
-    ["Rooster"]=2
+    ["Starfish"]=1
   },
+
+
+  AUTO_SWITCH_TO_HATCH_WHEN_INCUBATING = true,
+  HATCH_SWITCH_MIN_ACTIVE_EGGS = 1,
 
   USE_PETS_FOR_UPGRADE_SLOT = { "Starfish" },
   REMOVE_PET_MAX_UPGRADE   = { "Starfish","Capybara" },
