@@ -1,6 +1,6 @@
 return {
   BUY_TRAVELING_MERCHANT = { "Bee Egg","Bug Egg","Paradise Egg","Loquat","Feijoa","Pitcher Plant" },
-  CLAIM_FAIRY_REWARD     = { "Enchanted Egg","Exotic Sparkle Egg","FairyPoints","Pet Shard Glimmering" },
+  CLAIM_FAIRY_REWARD = { "Enchanted Egg", "Mutation Spray Glimmering", "FairyPoints", "Enchanted Seed Pack" },
 
   AUTO_UPDATE_RESTART = true,
   REDEEM_CODES = {},
