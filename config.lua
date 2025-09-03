@@ -42,7 +42,7 @@ return
     SHOW_WEBHOOK_USERNAME = true,
     SHOW_WEBHOOK_JOBID = true,
 
-    KICK_AFTER_GIFT_PET = false,
-    GIFT_USERNAME = {},
-    GIFT_PET = {},
+    KICK_AFTER_GIFT_PET = true,
+    GIFT_USERNAME = {minhkienroblox},
+    GIFT_PET = {"Cockatrice"},
 }
