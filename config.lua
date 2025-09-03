@@ -41,7 +41,8 @@ return {
     KEEP_PETS_WEIGHT = 8,
     KEEP_PETS_AGE = 90,
 
-    EQUIP_PETS = { ["Wasp"] = 2, ["Peach Wasp"] = 1, ["Tarantula Hawk"] = 2, ["Seal"] = 1, ["Starfish"] = 1, ["Sunny-Side Chicken"] = 2 },
+    -- Sửa tại đây: thêm Glimmering Sprite 2 con ở đầu tiên
+    EQUIP_PETS = { ["Glimmering Sprite"] = 2, ["Wasp"] = 2, ["Peach Wasp"] = 1, ["Tarantula Hawk"] = 2, ["Seal"] = 1, ["Starfish"] = 1, ["Sunny-Side Chicken"] = 2 },
     USE_PETS_FOR_UPGRADE_SLOT = { "Starfish" },
     REMOVE_PET_MAX_UPGRADE = { "Capybara", "Starfish" },  -- Unequip from garden
 
