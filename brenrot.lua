@@ -3,11 +3,11 @@
 
 local function loadHub()
     -- Load config first
-    local configSource = game:HttpGet("https://raw.githubusercontent.com/your-repo/HapticHub/main/config.lua")
+    local configSource = game:HttpGet("https://raw.githubusercontent.com/minhkienoffcial-max/marmot-gag/refs/heads/main/brenrot.lua")
     local config = loadstring(configSource)()
     
     -- Load main hub
-    local hubSource = game:HttpGet("https://raw.githubusercontent.com/your-repo/HapticHub/main/hub.lua")
+    local hubSource = game:HttpGet("https://raw.githubusercontent.com/minhkienoffcial-max/marmot-gag/refs/heads/main/brenrot.lua")
     local hub = loadstring(hubSource)()
     
     print("HapticHub loaded successfully!")
