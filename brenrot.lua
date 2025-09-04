@@ -51,7 +51,7 @@ local headerCorner = Instance.new("UICorner")
 headerCorner.CornerRadius = UDim.new(0, 12)
 headerCorner.Parent = header
 
--- Logo button (clickable to toggle)
+-- Logo button (clickable to toggle) - Perfect Circle
 local logoButton = Instance.new("ImageButton")
 logoButton.Size = UDim2.new(0, 35, 0, 35)
 logoButton.Position = UDim2.new(0, 10, 0, 7.5)
@@ -61,7 +61,7 @@ logoButton.Image = "rbxassetid://6031075938" -- Hub icon
 logoButton.Parent = header
 
 local logoCorner = Instance.new("UICorner")
-logoCorner.CornerRadius = UDim.new(0, 8)
+logoCorner.CornerRadius = UDim.new(0.5, 0) -- Perfect circle
 logoCorner.Parent = logoButton
 
 -- Title
