@@ -40,8 +40,6 @@ return {
     KEEP_PETS_AGE = 90,
 
     EQUIP_PETS = { 
-        ["Glimmering Sprite"] = 2, 
-        ["Rooster"] = 2,
         ["Chicken"] = 2,
         ["Blood Kiwi"] = 2,
         ["Sunny-Side Chicken"] = 2
