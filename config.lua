@@ -40,11 +40,11 @@ return {
     KEEP_PETS_AGE = 90,
 
     EQUIP_PETS = { 
-        ["Chicken"] = 2,
-        ["Blood Kiwi"] = 2,
-        ["Sunny-Side Chicken"] = 2
+        ["Chicken"] = 3,
+        ["Blood Kiwi"] = 3,
+        ["Sunny-Side Chicken"] = 3,
         ["Glimmering Sprite"] = 2,
-        ["Rooster"] = 2
+        ["Rooster"] = 2,
     },
 
     BUY_GEAR_SHOP = { "Grandmaster Sprinkler", "Master Sprinkler", "Godly Sprinkler", "Advanced Sprinkler", "Basic Sprinkler", "Trading Ticket", "Watering Can", "Cleaning Spray" },
