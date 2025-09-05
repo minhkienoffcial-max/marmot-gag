@@ -40,8 +40,8 @@ return {
     KEEP_PETS_AGE = 90,
 
     EQUIP_PETS = { 
+        ["Blood Kiwi"] = 5,
         ["Chicken"] = 3,
-        ["Blood Kiwi"] = 3,
         ["Sunny-Side Chicken"] = 3,
         ["Rooster"] = 2,
     },
