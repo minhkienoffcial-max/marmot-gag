@@ -43,7 +43,6 @@ return {
         ["Chicken"] = 3,
         ["Blood Kiwi"] = 3,
         ["Sunny-Side Chicken"] = 3,
-        ["Glimmering Sprite"] = 2,
         ["Rooster"] = 2,
     },
 
