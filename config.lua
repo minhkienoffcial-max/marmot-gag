@@ -43,6 +43,8 @@ return {
         ["Chicken"] = 2,
         ["Blood Kiwi"] = 2,
         ["Sunny-Side Chicken"] = 2
+        ["Glimmering Sprite"] = 2,
+        ["Rooster"] = 2
     },
 
     BUY_GEAR_SHOP = { "Grandmaster Sprinkler", "Master Sprinkler", "Godly Sprinkler", "Advanced Sprinkler", "Basic Sprinkler", "Trading Ticket", "Watering Can", "Cleaning Spray" },
