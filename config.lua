@@ -47,6 +47,8 @@ return {
 
     -- Pets
     KEEP_PETS = {
+        ["Rooster"] = 8, 
+
         "Phoenix", "Drake", "Wisp", "Luminous Sprite", "Cockatrice",
         ["Glimmering Sprite"] = 5, "Gnome", "Griffin", "Golden Goose", "Spriggan",
         "Junkbot", "Gorilla Chef", "Lobster Thermidor", "French Fry Ferret", "Mochi Mouse",
@@ -56,11 +58,12 @@ return {
         "Mimic Octopus", "Red Fox", "Hyacinth Macaw", "Pack Bee", "Petal Bee", "Bear Bee",
         "Hamster", "Blood Owl", "Cooked Owl", "Golden Bee", "Owl", "Firefly",
         "Chicken Zombie", ["Kodama"] = 6, ["Corrupted Kodama"] = 6, ["Blood Kiwi"] = 2,
-        ["Capybara"] = 1, ["Starfish"] = 2, ["Rooster"] = 8, ["Chicken"] = 8,
+        ["Capybara"] = 1, ["Starfish"] = 2, ["Chicken"] = 8,
         ["Tanchozuru"] = 5, ["Kappa"] = 5
     },
     KEEP_PETS_WEIGHT = 7,
     KEEP_PETS_AGE = 90,
+
     EQUIP_PETS = {
         ["Rooster"] = 8,
         ["Blood Kiwi"] = 8
