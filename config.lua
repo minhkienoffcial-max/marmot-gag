@@ -65,8 +65,8 @@ return {
     KEEP_PETS_AGE = 90,
 
     EQUIP_PETS = {
-        ["Rooster"] = 8,
-        ["Blood Kiwi"] = 8
+        ["Blood Kiwi"] = 8,
+        ["Rooster"] = 8
     },
 
     -- Gear
