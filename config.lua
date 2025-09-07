@@ -30,10 +30,7 @@ return {
         "Rare Summer Egg", "Common Summer Egg", "Rare Egg", "Uncommon Egg"
     },
     PLANT_EGGS = {
-        "Enchanted Egg", "Sprout Egg", "Gourmet Egg", "Corrupted Zen Egg", "Zen Egg",
-        "Dinosaur Egg", "Primal Egg", "Anti Bee Egg", "Bee Egg", "Night Egg",
-        "Bug Egg", "Paradise Egg", "Mythical Egg", "Common Summer Egg",
-        "Rare Egg", "Uncommon Egg"
+        "Rare Egg"
     },
 
     -- Seeds
@@ -65,7 +62,8 @@ return {
     KEEP_PETS_WEIGHT = 7,
     KEEP_PETS_AGE = 90,
     EQUIP_PETS = {
-        ["Glimmering Sprite"] = 8, ["Rooster"] = 8
+        ["Rooster"] = 8,
+        ["Blood Kiwi"] = 8
     },
 
     -- Gear
