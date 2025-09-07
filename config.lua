@@ -50,7 +50,7 @@ return {
         ["Rooster"] = 8, 
 
         "Phoenix", "Drake", "Wisp", "Luminous Sprite", "Cockatrice",
-        ["Glimmering Sprite"] = 5, "Gnome", "Griffin", "Golden Goose", "Spriggan",
+        ["Glimmering Sprite"] = 1, "Gnome", "Griffin", "Golden Goose", "Spriggan",
         "Junkbot", "Gorilla Chef", "Lobster Thermidor", "French Fry Ferret", "Mochi Mouse",
         "Corrupted Kitsune", "Raiju", "Mizuchi", "Kitsune", "Koi", "Bald Eagle",
         "Ankylosaurus", "Spinosaurus", "Brontosaurus", "T-Rex", "Seal", "Fennec Fox",
