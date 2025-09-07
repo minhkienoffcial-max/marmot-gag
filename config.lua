@@ -47,9 +47,7 @@ return {
 
     -- Pets
     KEEP_PETS = {
-        ["Rooster"] = 8, 
-
-        "Phoenix", "Drake", "Wisp", "Luminous Sprite", "Cockatrice",
+        ["Rooster"] = 8, "Phoenix", "Drake", "Wisp", "Luminous Sprite", "Cockatrice",
         ["Glimmering Sprite"] = 1, "Gnome", "Griffin", "Golden Goose", "Spriggan",
         "Junkbot", "Gorilla Chef", "Lobster Thermidor", "French Fry Ferret", "Mochi Mouse",
         "Corrupted Kitsune", "Raiju", "Mizuchi", "Kitsune", "Koi", "Bald Eagle",
