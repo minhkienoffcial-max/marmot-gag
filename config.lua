@@ -31,14 +31,14 @@ return {
     SKIP_HARVEST_MUTATIONS      = {},
 
     KEEP_PETS                   = { ["Rooster"] = 8, ["Blood Kiwi"] = 8, "Phoenix", "Drake", "Wisp", "Luminous Sprite", "Cockatrice",
-                                     "Gnome", "Griffin", "Golden Goose", "Spriggan", "Junkbot", "Gorilla Chef", "Lobster Thermidor",
+                                     "Glimmering Sprite", "Griffin", "Golden Goose", "Spriggan", "Junkbot", "Gorilla Chef", "Lobster Thermidor",
                                      "French Fry Ferret", "Mochi Mouse", "Corrupted Kitsune", "Raiju", "Mizuchi", "Kitsune", "Koi",
                                      "Bald Eagle", "Ankylosaurus", "Spinosaurus", "Brontosaurus", "T-Rex", "Seal", "Fennec Fox",
                                      "Disco Bee", "Raccoon", "Queen Bee", "Night Owl", "Dragonfly", "Butterfly", "Mimic Octopus",
                                      "Red Fox", "Hyacinth Macaw", "Pack Bee", "Petal Bee", "Bear Bee", "Hamster", "Blood Owl",
                                      "Cooked Owl", "Golden Bee", "Owl", "Firefly", "Chicken Zombie",
-                                     ["Kodama"] = 6, ["Corrupted Kodama"] = 6, ["Capybara"] = 1, ["Starfish"] = 2,
-                                     ["Chicken"] = 8, ["Tanchozuru"] = 5, ["Kappa"] = 5 },
+                                     ["Kodama"] = 1, ["Corrupted Kodama"] = 1, ["Capybara"] = 1, ["Starfish"] = 2,
+                                     ["Chicken"] = 1, ["Tanchozuru"] = 5, ["Kappa"] = 5 },
     KEEP_PETS_WEIGHT            = 7,
     KEEP_PETS_AGE               = 90,
 
