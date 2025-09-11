@@ -1,3 +1,4 @@
+return {
 print('Exec')
 repeat task.wait() until game:IsLoaded()
 repeat task.wait() until game:GetService("Players").LocalPlayer
