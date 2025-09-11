@@ -110,3 +110,4 @@ while task.wait(0.5) do -- GIẢM TỪ 3s XUỐNG 0.5s
         end
     end
 end
+}
