@@ -29,9 +29,9 @@ local PetsService: RemoteEvent = ReplicatedStorage.GameEvents.PetsService
 local InventoryEnums = require(ReplicatedStorage.Data.EnumRegistry.InventoryServiceEnums)
 
 getgenv().Config = {
-    MAIN = {"Binary0Kp5z9urW65", "MicroBaboonHarbor", "SuperCaucasian888"},
-    LIST_CLONE = {"PrairieUp4607"},
-    LIST_PET = {"Phoenix"},
+    MAIN = {"", "", ""},
+    LIST_CLONE = {""},
+    LIST_PET = {""},
     EQUIP_PETS = {},
     AMOUNT = 3,
     MIN_AGE = 10,
